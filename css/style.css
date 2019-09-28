@@ -8,10 +8,18 @@ p {
 }
 image {
     max-width: 100px;
+
 }
 
 #container1 {
     background-color: white;
     min-height: 600px;
-    padding: 20px;
+    padding: 40px;
+    border-block-color: black;
+    margin: 20px;
+}
+
+h1 {
+    box-align: center;
+text-decoration-color: blue;
 }
