@@ -15,8 +15,8 @@ p {
     margin: 20px;
 }
 
-img #bigkitty {
-    max-height: 200px;
+ #bigkitty {
+    scale: 50%;
     border: 3px;
     border-color: black;
 }
