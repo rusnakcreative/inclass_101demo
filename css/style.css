@@ -27,8 +27,14 @@ text-decoration-color: blue;
 nav ul {
     list-style: none;
     text-align: center;
-
+}
 
 nav li {
-display: inline-block;
+    display: inline-block;
+    border-left: 1px solid;
+    font-size: 16px;
+}
+
+nav li:last-of-type {
+    border-right: 1px solid;
 }
