@@ -9,3 +9,9 @@ p {
 image {
     width: 100px;
 }
+
+#container1 {
+    background-color: white;
+    min-height: 600px;
+    padding: 20px;
+}
