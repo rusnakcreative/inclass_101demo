@@ -38,3 +38,8 @@ nav li {
 nav li:last-of-type {
     border-right: 1px solid brown;
 }
+
+nav a {
+    text-decoration: none;
+    padding: 10px;
+}
