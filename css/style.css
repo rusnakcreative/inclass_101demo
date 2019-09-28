@@ -31,10 +31,10 @@ nav ul {
 
 nav li {
     display: inline-block;
-    border-left: 1px solid;
+    border-left: 1px solid brown;
     font-size: 16px;
 }
 
 nav li:last-of-type {
-    border-right: 1px solid;
+    border-right: 1px solid brown;
 }
