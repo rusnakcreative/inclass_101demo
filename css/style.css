@@ -7,7 +7,7 @@ p {
    font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 image {
-    width: 100px;
+    max-width: 100px;
 }
 
 #container1 {
